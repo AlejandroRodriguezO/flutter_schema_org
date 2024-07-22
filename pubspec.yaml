@@ -1,7 +1,7 @@
 name: flutter_schema_org
 description: "A JSON-LD library with Flutter/Dart types for Schema.org vocabulary."
 version: 1.0.0
-homepage: https://github.com/oddbit/flutter-schema-org
+homepage: https://github.com/AlejandroRodriguezO/flutter_schema_org
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
